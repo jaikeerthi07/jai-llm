@@ -1,0 +1,11 @@
+{
+    "servers": {
+        "mock_server": {
+            "command": "python",
+            "args": [
+                "backend/mock_mcp_server.py"
+            ],
+            "env": {}
+        }
+    }
+}
